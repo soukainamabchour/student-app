@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405997249523",
+    "firebase_url": "https://students-e7a6e.firebaseio.com",
+    "project_id": "students-e7a6e",
+    "storage_bucket": "students-e7a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405997249523:android:fa53dd4213ed5128db6886",
+        "android_client_info": {
+          "package_name": "com.emsi.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405997249523-c01lqkshl1tg4errmkurim2ip2vo020t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkNFrFeyIo4Ixy-pxGwrULucSUsoAUG_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405997249523-c01lqkshl1tg4errmkurim2ip2vo020t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
